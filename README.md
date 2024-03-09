@@ -1,4 +1,4 @@
-### 👋 Hi, i'm Michael, a JS web developper!
+### 👋 Hi, i'm Michael!
 
 
 # 💻 Tech Stack:
