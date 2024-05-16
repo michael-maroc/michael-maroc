@@ -1,4 +1,4 @@
-### 👋 Hi, i'm Michael!
+### 👋 Hi i'm Michael, a junior web developer!
 🌱 I’m currently learning Java & Spring Boot<br>
 
 
