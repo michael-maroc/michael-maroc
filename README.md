@@ -1,5 +1,5 @@
 ### 👋 Hi i'm Michael, a junior web developer!
-🌱 I’m currently learning Java & Spring Boot<br>
+🌱 I’m currently learning Typescript with React.js and Node.js<br>
 
 
 # 💻 Tech Stack:
