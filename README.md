@@ -1,5 +1,5 @@
 ### 👋 Hi i'm Michael, a junior web developer!
-🌱 I’m currently learning Typescript with React.js and Node.js<br>
+🌱 I’m currently learning Typescript vanilla and with React.js<br>
 
 
 # 💻 Tech Stack:
