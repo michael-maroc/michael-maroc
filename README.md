@@ -1,5 +1,5 @@
 ### 👋 Hi i'm Michael, a junior web developer!
-🌱 I’m currently learning PHP<br>
+🌱 I’m currently learning PHP and Laravel<br>
 
 
 # 💻 Tech Stack:
