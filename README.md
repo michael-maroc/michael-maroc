@@ -1,4 +1,4 @@
-### 👋 Hi i'm Michael, a junior web developer!
+### 👋 Hi i'm Michael, a junior Full stack web developer!
 🌱 I’m currently learning PHP and Laravel<br>
 
 
